@@ -27,6 +27,7 @@ How to Contribute?
 Todo
 
 Index extra systemserver obtained from tiddlyvault https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyVault/ExtraServer.txt.
+Index Icon Package, theme package, template, transclusions, CSS from tiddlytools
 
 Credit:
 https://github.com/YakovL/TiddlyWiki_TiddlerInFilePlugin/blob/master/TiddlerInFilePlugin.js
