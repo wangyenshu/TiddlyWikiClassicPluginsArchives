@@ -1,0 +1,70 @@
+|Source |https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PrinceTiddlyWikiExtensions.txt|
+|Version|0.1|
+//{{{
+[
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PrinceTiddlyWikiExtensions/ArchivedTimeline.js",
+        "description": "ArchivedTimeline"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PrinceTiddlyWikiExtensions/BookmarksCommand.js",
+        "description": "BookmarksCommand"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PrinceTiddlyWikiExtensions/BreadcrumbsPlugin.js",
+        "description": "BreadcrumbsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PrinceTiddlyWikiExtensions/FixedChangeset 5138.js",
+        "description": "FixedChangeset 5138"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PrinceTiddlyWikiExtensions/InstallThemePlugin.js",
+        "description": "InstallThemePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PrinceTiddlyWikiExtensions/LoadExtPlugin.js",
+        "description": "LoadExtPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PrinceTiddlyWikiExtensions/MagicToggle.js",
+        "description": "MagicToggle"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PrinceTiddlyWikiExtensions/ManageTiddlers.js",
+        "description": "ManageTiddlers"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PrinceTiddlyWikiExtensions/PopupTipsPlugin.js",
+        "description": "PopupTipsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PrinceTiddlyWikiExtensions/PopupTipsPlugin.Tweak.js",
+        "description": "PopupTipsPlugin.Tweak"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PrinceTiddlyWikiExtensions/SimpleClockPlugin.js",
+        "description": "SimpleClockPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PrinceTiddlyWikiExtensions/Slider2Plugin.js",
+        "description": "Slider2Plugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PrinceTiddlyWikiExtensions/TiddlyCalendar.js",
+        "description": "TiddlyCalendar"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PrinceTiddlyWikiExtensions/TiddlyCalendar.zh-Hant.js",
+        "description": "TiddlyCalendar.zh-Hant"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PrinceTiddlyWikiExtensions/XMLReader2.js",
+        "description": "XMLReader2"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PrinceTiddlyWikiExtensions/__Config.js",
+        "description": "Config"
+    }
+]
+//}}}

@@ -1,0 +1,74 @@
+|Source |https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/AbegoSoftware.txt|
+|Version|0.1|
+//{{{
+[
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/AbegoSoftware/AutoRefreshPlugin.js",
+        "description": "AutoRefreshPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/AbegoSoftware/DataTiddlerPlugin.js",
+        "description": "DataTiddlerPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/AbegoSoftware/DeprecatedFunctionsPlugin.js",
+        "description": "DeprecatedFunctionsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/AbegoSoftware/ForEachTiddlerPlugin.js",
+        "description": "ForEachTiddlerPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/AbegoSoftware/FormTiddlerPlugin.js",
+        "description": "FormTiddlerPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/AbegoSoftware/IncludePlugin.js",
+        "description": "IncludePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/AbegoSoftware/InlineJavascriptPlugin.js",
+        "description": "InlineJavascriptPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/AbegoSoftware/IntelliTaggerPlugin.js",
+        "description": "IntelliTaggerPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/AbegoSoftware/IntelliTagsEditCommandPlugin.js",
+        "description": "IntelliTagsEditCommandPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/AbegoSoftware/LegacyStrikeThroughPlugin.js",
+        "description": "LegacyStrikeThroughPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/AbegoSoftware/Minesweeper.js",
+        "description": "Minesweeper"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/AbegoSoftware/PartTiddlerPlugin.js",
+        "description": "PartTiddlerPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/AbegoSoftware/SettingsPlugin.js",
+        "description": "SettingsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/AbegoSoftware/SyncFileTiddlerPlugin.js",
+        "description": "SyncFileTiddlerPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/AbegoSoftware/TiddlerWithParamsPlugin.js",
+        "description": "TiddlerWithParamsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/AbegoSoftware/YourSearchPlugin.js",
+        "description": "YourSearchPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/AbegoSoftware/abego.editIncludedTiddlerCommand (Experimental).js",
+        "description": "abego.editIncludedTiddlerCommand (Experimental)"
+    }
+]
+//}}}

@@ -1,0 +1,38 @@
+|Source |https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyStyles.txt|
+|Version|0.1|
+//{{{
+[
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyStyles/AllTagsExceptMacro.js",
+        "description": "AllTagsExceptMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyStyles/HoverMenuPlugin.js",
+        "description": "HoverMenuPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyStyles/RedirectMacro.js",
+        "description": "RedirectMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyStyles/SelectThemePlugin.js",
+        "description": "SelectThemePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyStyles/TagCloud.js",
+        "description": "TagCloud"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyStyles/TagglyTagCloud.js",
+        "description": "TagglyTagCloud"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyStyles/UploadPlugin.js",
+        "description": "UploadPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyStyles/WeblogPlugin.js",
+        "description": "WeblogPlugin"
+    }
+]
+//}}}

@@ -1,0 +1,42 @@
+|Source |https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/RedMountainVista.txt|
+|Version|0.1|
+//{{{
+[
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/RedMountainVista/DC3.Ajax.js",
+        "description": "DC3.Ajax"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/RedMountainVista/DC3.LightBox.js",
+        "description": "DC3.LightBox"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/RedMountainVista/LegacyStrikeThroughPlugin.js",
+        "description": "LegacyStrikeThroughPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/RedMountainVista/PersistentFormPlugin.js",
+        "description": "PersistentFormPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/RedMountainVista/PostFormPlugin.js",
+        "description": "PostFormPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/RedMountainVista/RefreshIFramePlugin.js",
+        "description": "RefreshIFramePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/RedMountainVista/RefreshTiddlerPlugin.js",
+        "description": "RefreshTiddlerPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/RedMountainVista/SortableGridPlugin.js",
+        "description": "SortableGridPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/RedMountainVista/UploadPlugin.js",
+        "description": "UploadPlugin"
+    }
+]
+//}}}

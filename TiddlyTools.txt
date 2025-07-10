@@ -1,0 +1,482 @@
+|Source |https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools.txt|
+|Version|0.1|
+//{{{
+[
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/AdvancedOptionsPlugin.js",
+        "description": "AdvancedOptionsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/AliasPlugin.js",
+        "description": "AliasPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/AnimationEffectsPlugin.js",
+        "description": "AnimationEffectsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/AttachFilePlugin.js",
+        "description": "AttachFilePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/AttachFilePluginFormatters.js",
+        "description": "AttachFilePluginFormatters"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/AutoTaggerPlugin.js",
+        "description": "AutoTaggerPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/BackstageTweaks.js",
+        "description": "BackstageTweaks"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/BreadcrumbsPlugin.js",
+        "description": "BreadcrumbsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/CalendarPlugin.js",
+        "description": "CalendarPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/CalendarPluginConfig.js",
+        "description": "CalendarPluginConfig"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/CheckboxPlugin.js",
+        "description": "CheckboxPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ClickifyPlugin.js",
+        "description": "ClickifyPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/CollapseTiddlersPlugin.js",
+        "description": "CollapseTiddlersPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ColumnCalculatorPlugin.js",
+        "description": "ColumnCalculatorPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/CommentPlugin.js",
+        "description": "CommentPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/CompareTiddlersPlugin.js",
+        "description": "CompareTiddlersPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ConfigTweaks.js",
+        "description": "ConfigTweaks"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ConfirmExitPlugin.js",
+        "description": "ConfirmExitPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ConfirmSavePlugin.js",
+        "description": "ConfirmSavePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/CookieJar.js",
+        "description": "CookieJar"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/CookieManagerPlugin.js",
+        "description": "CookieManagerPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/CookieManagerPluginConfig.js",
+        "description": "CookieManagerPluginConfig"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/CookieSaverPlugin.js",
+        "description": "CookieSaverPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/CookieSaverPluginConfig.js",
+        "description": "CookieSaverPluginConfig"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/CopyTiddlerPlugin.js",
+        "description": "CopyTiddlerPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/CoreTweaks.js",
+        "description": "CoreTweaks"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/DOMTweaksPlugin.js",
+        "description": "DOMTweaksPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/DOMViewerPlugin.js",
+        "description": "DOMViewerPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/DatePlugin.js",
+        "description": "DatePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/DatePluginConfig.js",
+        "description": "DatePluginConfig"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/DisableWikiLinksPlugin.js",
+        "description": "DisableWikiLinksPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/DiscussionPlugin.js",
+        "description": "DiscussionPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/DragScrollPlugin.js",
+        "description": "DragScrollPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/EditFieldPlugin.js",
+        "description": "EditFieldPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/EditSectionPlugin.js",
+        "description": "EditSectionPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/EditTiddlerPlugin.js",
+        "description": "EditTiddlerPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ExportTiddlersPlugin.js",
+        "description": "ExportTiddlersPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ExternalTiddlersPlugin.js",
+        "description": "ExternalTiddlersPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/FAQViewerPlugin.js",
+        "description": "FAQViewerPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/FileDropPlugin.js",
+        "description": "FileDropPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/FoldHeadingsPlugin.js",
+        "description": "FoldHeadingsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/FramedLinksPlugin.js",
+        "description": "FramedLinksPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/GotoPlugin.js",
+        "description": "GotoPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/GridPlugin.js",
+        "description": "GridPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/HTMLFormattingPlugin.js",
+        "description": "HTMLFormattingPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/HideTiddlersPlugin.js",
+        "description": "HideTiddlersPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ImageMapPlugin.js",
+        "description": "ImageMapPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ImagePathPlugin.js",
+        "description": "ImagePathPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ImageSizePlugin.js",
+        "description": "ImageSizePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ImportTiddlersPlugin.js",
+        "description": "ImportTiddlersPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ImportTiddlersPluginPatch.js",
+        "description": "ImportTiddlersPluginPatch"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/InlineJavascriptPlugin.js",
+        "description": "InlineJavascriptPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/Jash.js.js",
+        "description": "Jash.js"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ListboxPlugin.js",
+        "description": "ListboxPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/LoadTiddlersPlugin.js",
+        "description": "LoadTiddlersPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/LoadTiddlersPluginPatch.js",
+        "description": "LoadTiddlersPluginPatch"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/LooseLinksPlugin.js",
+        "description": "LooseLinksPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/MatchTagsPlugin.js",
+        "description": "MatchTagsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/MessageLogPlugin.js",
+        "description": "MessageLogPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/MiniBrowserPlugin.js",
+        "description": "MiniBrowserPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/MissingTiddlersPlugin.js",
+        "description": "MissingTiddlersPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/MoveablePanelPlugin.js",
+        "description": "MoveablePanelPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/NestedSlidersPlugin.js",
+        "description": "NestedSlidersPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/PanelManagerPlugin.js",
+        "description": "PanelManagerPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/PasteUpHelperPlugin.js",
+        "description": "PasteUpHelperPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/PasteUpPlugin.js",
+        "description": "PasteUpPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/PlayerPlugin.js",
+        "description": "PlayerPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/PopupPreviewPlugin.js",
+        "description": "PopupPreviewPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/PreviewPlugin.js",
+        "description": "PreviewPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/QuickEditPlugin.js",
+        "description": "QuickEditPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/QuickNotePlugin.js",
+        "description": "QuickNotePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/QuoteOfTheDayPlugin.js",
+        "description": "QuoteOfTheDayPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/RearrangeTiddlersPlugin.js",
+        "description": "RearrangeTiddlersPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/RecentChangesPlugin.js",
+        "description": "RecentChangesPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/RelatedTiddlersPlugin.js",
+        "description": "RelatedTiddlersPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/RunTiddlerPlugin.js",
+        "description": "RunTiddlerPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/SaveAsPlugin.js",
+        "description": "SaveAsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/SaveFromWebConfig.js",
+        "description": "SaveFromWebConfig"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/SaveFromWebPlugin.js",
+        "description": "SaveFromWebPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/SaveTiddlerToFilePlugin.js",
+        "description": "SaveTiddlerToFilePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/SearchOptionsPlugin.js",
+        "description": "SearchOptionsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/SectionLinksPlugin.js",
+        "description": "SectionLinksPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/SendTiddlerPlugin.js",
+        "description": "SendTiddlerPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/SetIconPlugin.js",
+        "description": "SetIconPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/SetUserNamePlugin.js",
+        "description": "SetUserNamePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ShowPopupPlugin.js",
+        "description": "ShowPopupPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ShowReferencesPlugin.js",
+        "description": "ShowReferencesPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/SinglePageModePlugin.js",
+        "description": "SinglePageModePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/SnapshotPlugin.js",
+        "description": "SnapshotPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/SplashScreenPlugin.js",
+        "description": "SplashScreenPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/StickyPopupPlugin.js",
+        "description": "StickyPopupPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/StorySaverPlugin.js",
+        "description": "StorySaverPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/StoryViewerPlugin.js",
+        "description": "StoryViewerPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/SwitchThemePlugin.js",
+        "description": "SwitchThemePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/SwitchThemePluginPatch.js",
+        "description": "SwitchThemePluginPatch"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/SystemInfoPlugin.js",
+        "description": "SystemInfoPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/TableOfContentsPlugin.js",
+        "description": "TableOfContentsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/TableSortingPlugin.js",
+        "description": "TableSortingPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/TagCloudPlugin.js",
+        "description": "TagCloudPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/TagGridPlugin.js",
+        "description": "TagGridPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/TaggedTemplateTweak.js",
+        "description": "TaggedTemplateTweak"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/TaskTimerPlugin.js",
+        "description": "TaskTimerPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/TaskTimerPluginConfig.js",
+        "description": "TaskTimerPluginConfig"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/TemporaryTiddlersPlugin.js",
+        "description": "TemporaryTiddlersPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/TextAreaPlugin.js",
+        "description": "TextAreaPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/TidIDEPlugin.js",
+        "description": "TidIDEPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/TiddlerIconsPlugin.js",
+        "description": "TiddlerIconsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/TiddlerIconsPluginConfig.js",
+        "description": "TiddlerIconsPluginConfig"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/TiddlerPasswordPlugin.js",
+        "description": "TiddlerPasswordPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/TiddlerPasswordPluginConfig.js",
+        "description": "TiddlerPasswordPluginConfig"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/TiddlerTweakerPlugin.js",
+        "description": "TiddlerTweakerPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/TiddlyLifePlugin.js",
+        "description": "TiddlyLifePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/TiddlyPodPlugin.js",
+        "description": "TiddlyPodPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/TrashPlugin.js",
+        "description": "TrashPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/UndoPlugin.js",
+        "description": "UndoPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/UnsavedChangesPlugin.js",
+        "description": "UnsavedChangesPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/UploadPlugin.js",
+        "description": "UploadPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/UploadPluginTweak.js",
+        "description": "UploadPluginTweak"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/WikifyPlugin.js",
+        "description": "WikifyPlugin"
+    }
+]
+//}}}

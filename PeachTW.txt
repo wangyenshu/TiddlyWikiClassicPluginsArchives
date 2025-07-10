@@ -1,0 +1,78 @@
+|Source |https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PeachTW.txt|
+|Version|0.1|
+//{{{
+[
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PeachTW/Binary Data Plugin.js",
+        "description": "Binary Data Plugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PeachTW/CaptureKeysMacro.js",
+        "description": "CaptureKeysMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PeachTW/CaptureKeysMacro Config.js",
+        "description": "CaptureKeysMacro Config"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PeachTW/DOMCrawler.js",
+        "description": "DOMCrawler"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PeachTW/Diff Function.js",
+        "description": "Diff Function"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PeachTW/FileDropPlugin.js",
+        "description": "FileDropPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PeachTW/FileDropPlugin Config.js",
+        "description": "FileDropPlugin Config"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PeachTW/HelloWorld.js",
+        "description": "HelloWorld"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PeachTW/InlineJavascriptPlugin.js",
+        "description": "InlineJavascriptPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PeachTW/LaunchApplicationPlugin.js",
+        "description": "LaunchApplicationPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PeachTW/NestedFormatterMacro.js",
+        "description": "NestedFormatterMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PeachTW/OpenToday.js",
+        "description": "OpenToday"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PeachTW/QuickOpenTagPlugin.js",
+        "description": "QuickOpenTagPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PeachTW/RenameTagsPlugin.js",
+        "description": "RenameTagsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PeachTW/Revisions Plugin.js",
+        "description": "Revisions Plugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PeachTW/TWSelection.js",
+        "description": "TWSelection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PeachTW/UploadPlugin.js",
+        "description": "UploadPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PeachTW/Z Conditional Display Formatter.js",
+        "description": "Z Conditional Display Formatter"
+    }
+]
+//}}}

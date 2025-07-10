@@ -1,0 +1,90 @@
+|Source |https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/BidiXTW.txt|
+|Version|0.1|
+//{{{
+[
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/BidiXTW/AutoWeavePluginPatched.js",
+        "description": "AutoWeavePluginPatched"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/BidiXTW/CalendarPlugin.js",
+        "description": "CalendarPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/BidiXTW/ChangeModePlugin.js",
+        "description": "ChangeModePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/BidiXTW/GenerateRssByTagPlugin.js",
+        "description": "GenerateRssByTagPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/BidiXTW/HideWhenPlugin.js",
+        "description": "HideWhenPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/BidiXTW/HttpGetMacro.js",
+        "description": "HttpGetMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/BidiXTW/IsDirtyPlugin.js",
+        "description": "IsDirtyPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/BidiXTW/ListByTag.js",
+        "description": "ListByTag"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/BidiXTW/LoadRemoteFileThroughProxy.js",
+        "description": "LoadRemoteFileThroughProxy"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/BidiXTW/NewsWikiTweaks.js",
+        "description": "NewsWikiTweaks"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/BidiXTW/PasswordOptionPlugin.js",
+        "description": "PasswordOptionPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/BidiXTW/RSSReaderPlugin.js",
+        "description": "RSSReaderPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/BidiXTW/SinglePageModePlugin.js",
+        "description": "SinglePageModePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/BidiXTW/TiddlyHomeSetupPlugin.js",
+        "description": "TiddlyHomeSetupPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/BidiXTW/UploadPlugin.js",
+        "description": "UploadPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/BidiXTW/UploadTiddlerMacro.js",
+        "description": "UploadTiddlerMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/BidiXTW/UploadTiddlerPlugin.js",
+        "description": "UploadTiddlerPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/BidiXTW/UploadToFileMacro.js",
+        "description": "UploadToFileMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/BidiXTW/UploadToHomeMacro.js",
+        "description": "UploadToHomeMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/BidiXTW/WebDAVSavingPlugin.js",
+        "description": "WebDAVSavingPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/BidiXTW/zBidiXTWTweaks.js",
+        "description": "zBidiXTWTweaks"
+    }
+]
+//}}}

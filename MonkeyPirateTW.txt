@@ -1,0 +1,94 @@
+|Source |https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MonkeyPirateTW.txt|
+|Version|0.1|
+//{{{
+[
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MonkeyPirateTW/CloseOnCancelPlugin.js",
+        "description": "CloseOnCancelPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MonkeyPirateTW/CryptoFunctionsPlugin.js",
+        "description": "CryptoFunctionsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MonkeyPirateTW/DeprecatedFunctionsPlugin.js",
+        "description": "DeprecatedFunctionsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MonkeyPirateTW/ExtendTagButtonPlugin.js",
+        "description": "ExtendTagButtonPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MonkeyPirateTW/HideWhenPlugin.js",
+        "description": "HideWhenPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MonkeyPirateTW/InstantTimestampPlugin.js",
+        "description": "InstantTimestampPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MonkeyPirateTW/LessBackupsPlugin.js",
+        "description": "LessBackupsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MonkeyPirateTW/MptwCollapsePlugin.js",
+        "description": "MptwCollapsePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MonkeyPirateTW/MptwConfigPlugin.js",
+        "description": "MptwConfigPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MonkeyPirateTW/MptwUserConfigPlugin.js",
+        "description": "MptwUserConfigPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MonkeyPirateTW/NewHerePlugin.js",
+        "description": "NewHerePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MonkeyPirateTW/NewMeansNewPlugin.js",
+        "description": "NewMeansNewPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MonkeyPirateTW/PrettyDatesPlugin.js",
+        "description": "PrettyDatesPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MonkeyPirateTW/QuickOpenTagPlugin.js",
+        "description": "QuickOpenTagPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MonkeyPirateTW/RenameTagsPlugin.js",
+        "description": "RenameTagsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MonkeyPirateTW/SaveCloseTiddlerPlugin.js",
+        "description": "SaveCloseTiddlerPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MonkeyPirateTW/SelectThemePlugin.js",
+        "description": "SelectThemePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MonkeyPirateTW/SparklinePlugin.js",
+        "description": "SparklinePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MonkeyPirateTW/TagglyTaggingPlugin.js",
+        "description": "TagglyTaggingPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MonkeyPirateTW/ToggleTagPlugin.js",
+        "description": "ToggleTagPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MonkeyPirateTW/TspotSetupPlugin.js",
+        "description": "TspotSetupPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MonkeyPirateTW/UploadPlugin.js",
+        "description": "UploadPlugin"
+    }
+]
+//}}}

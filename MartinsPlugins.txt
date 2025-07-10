@@ -1,0 +1,130 @@
+|Source |https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MartinsPlugins.txt|
+|Version|0.1|
+//{{{
+[
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MartinsPlugins/AdaptorCommandsPlugin.js",
+        "description": "AdaptorCommandsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MartinsPlugins/AdaptorMacrosPlugin.js",
+        "description": "AdaptorMacrosPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MartinsPlugins/ConfluenceFormatterPlugin.js",
+        "description": "ConfluenceFormatterPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MartinsPlugins/CreoleFormatterPlugin.js",
+        "description": "CreoleFormatterPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MartinsPlugins/CryptoTEAPlugin.js",
+        "description": "CryptoTEAPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MartinsPlugins/DisableStrikeThroughPlugin.js",
+        "description": "DisableStrikeThroughPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MartinsPlugins/DisableWikiLinksPlugin.js",
+        "description": "DisableWikiLinksPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MartinsPlugins/EncryptionCommandsPlugin.js",
+        "description": "EncryptionCommandsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MartinsPlugins/ExampleAdaptorPlugin.js",
+        "description": "ExampleAdaptorPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MartinsPlugins/ExampleFormatterPlugin.js",
+        "description": "ExampleFormatterPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MartinsPlugins/ExamplePlugin.js",
+        "description": "ExamplePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MartinsPlugins/JSPWikiAdaptorPlugin.js",
+        "description": "JSPWikiAdaptorPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MartinsPlugins/JSPWikiFormatterPlugin.js",
+        "description": "JSPWikiFormatterPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MartinsPlugins/MediaWikiAdaptorPlugin.js",
+        "description": "MediaWikiAdaptorPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MartinsPlugins/MediaWikiFormatterPlugin.js",
+        "description": "MediaWikiFormatterPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MartinsPlugins/PBWikiFormatterPlugin.js",
+        "description": "PBWikiFormatterPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MartinsPlugins/PartTiddlerPlugin.js",
+        "description": "PartTiddlerPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MartinsPlugins/PmWikiFormatterPlugin.js",
+        "description": "PmWikiFormatterPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MartinsPlugins/SHA-1UnwoundPlugin.js",
+        "description": "SHA-1UnwoundPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MartinsPlugins/SnipSnapFormatterPlugin.js",
+        "description": "SnipSnapFormatterPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MartinsPlugins/SocialtextAdaptorPlugin.js",
+        "description": "SocialtextAdaptorPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MartinsPlugins/SocialtextFormatterPlugin.js",
+        "description": "SocialtextFormatterPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MartinsPlugins/SplashScreenPlugin.js",
+        "description": "SplashScreenPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MartinsPlugins/TWikiAdaptorPlugin.js",
+        "description": "TWikiAdaptorPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MartinsPlugins/TWikiFormatterPlugin.js",
+        "description": "TWikiFormatterPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MartinsPlugins/TextileFormatterPlugin.js",
+        "description": "TextileFormatterPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MartinsPlugins/TodoListPlugin.js",
+        "description": "TodoListPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MartinsPlugins/TracFormatterPlugin.js",
+        "description": "TracFormatterPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MartinsPlugins/WikispacesFormatterPlugin.js",
+        "description": "WikispacesFormatterPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MartinsPlugins/ccTiddlyAdaptorPlugin.js",
+        "description": "ccTiddlyAdaptorPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MartinsPlugins/settings.js",
+        "description": "settings"
+    }
+]
+//}}}

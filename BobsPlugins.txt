@@ -1,0 +1,22 @@
+|Source |https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/BobsPlugins.txt|
+|Version|0.1|
+//{{{
+[
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/BobsPlugins/Plugin: Scientific Notation.js",
+        "description": "Plugin: Scientific Notation"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/BobsPlugins/Plugin: Syntaxify.js",
+        "description": "Plugin: Syntaxify"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/BobsPlugins/Plugin: arXiv.js",
+        "description": "Plugin: arXiv"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/BobsPlugins/Plugin: jsMath.js",
+        "description": "Plugin: jsMath"
+    }
+]
+//}}}

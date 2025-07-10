@@ -1,0 +1,82 @@
+|Source |https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/VisualTW2.txt|
+|Version|0.1|
+//{{{
+[
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/VisualTW2/CascadingExcludeListsHack.js",
+        "description": "CascadingExcludeListsHack"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/VisualTW2/CryptoFunctionsPlugin.js",
+        "description": "CryptoFunctionsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/VisualTW2/DeprecatedFunctionsPlugin.js",
+        "description": "DeprecatedFunctionsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/VisualTW2/EasyEditPlugin.js",
+        "description": "EasyEditPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/VisualTW2/EncryptedVaultPlugin.js",
+        "description": "EncryptedVaultPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/VisualTW2/ExternalizePlugin.js",
+        "description": "ExternalizePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/VisualTW2/FCKeditorPlugin.js",
+        "description": "FCKeditorPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/VisualTW2/FieldsEditorPlugin.js",
+        "description": "FieldsEditorPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/VisualTW2/GotoPlugin.js",
+        "description": "GotoPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/VisualTW2/HTMLFormattingPlugin.js",
+        "description": "HTMLFormattingPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/VisualTW2/LessBackupsPlugin.js",
+        "description": "LessBackupsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/VisualTW2/PopupMacro.js",
+        "description": "PopupMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/VisualTW2/SparklinePlugin.js",
+        "description": "SparklinePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/VisualTW2/SyncFromSourcePlugin.js",
+        "description": "SyncFromSourcePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/VisualTW2/SyncPlugin.js",
+        "description": "SyncPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/VisualTW2/TaggerPlugin.js",
+        "description": "TaggerPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/VisualTW2/TagsTreePlugin.js",
+        "description": "TagsTreePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/VisualTW2/TiddlersBarPlugin.js",
+        "description": "TiddlersBarPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/VisualTW2/externalPluginsPatches.js",
+        "description": "externalPluginsPatches"
+    }
+]
+//}}}
