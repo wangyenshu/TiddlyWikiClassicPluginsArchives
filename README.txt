@@ -24,6 +24,10 @@ How to Contribute?
 3. Click the tiddler [[ExportAllPlugins]]. It should download all the tiddlers with systemConfig tag to file extension ".js".
 4. Adjust the tiddler content (url) of [[installed_Plugins]]. Then click [[installed_Plugins]] to generate json description for all plugins. You should remove the last ",".
 
+Todo
+
+Index extra systemserver obtained from tiddlyvault https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyVault/ExtraServer.txt.
+
 Credit:
 https://github.com/YakovL/TiddlyWiki_TiddlerInFilePlugin/blob/master/TiddlerInFilePlugin.js
 http://tiddlywiki.abego-software.de/#ForEachTiddlerPlugin
