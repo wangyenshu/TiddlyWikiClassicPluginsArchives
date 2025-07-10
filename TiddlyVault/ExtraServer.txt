@@ -52,3 +52,4 @@ https://web.archive.org/web/20080830202846/http://www.fabriceproudhon.com/superp
 https://web.archive.org/web/20110228140439/http://www.tiddly-twab.com//
 https://web.archive.org/web/20090928220707/http://yann.perrin.googlepages.com/twkd.html
 https://web.archive.org/web/20100418173404/http://www.zagware.com/tw/plugins.html#DcTableOfContentsPlugin
+http://www.guyrutenberg.com/2011/06/25/latex-for-tiddlywiki-a-mathjax-plugin/
