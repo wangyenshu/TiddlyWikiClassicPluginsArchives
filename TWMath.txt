@@ -1,0 +1,22 @@
+|Source |https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TWMath.txt|
+|Version|0.1|
+//{{{
+[
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TWMath/CodeFormatter.js",
+        "description": "CodeFormatter"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TWMath/MathCell.js",
+        "description": "MathCell"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TWMath/OpenTiddlerInWindowCommand.js",
+        "description": "OpenTiddlerInWindowCommand"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TWMath/SaveToDefault.js",
+        "description": "SaveToDefault"
+    }
+]
+//}}}

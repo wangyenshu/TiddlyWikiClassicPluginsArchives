@@ -1,0 +1,146 @@
+|Source |https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2.txt|
+|Version|0.1|
+//{{{
+[
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2/AmPmTimeFormat.js",
+        "description": "AmPmTimeFormat"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2/AutoCorrectPlugin.js",
+        "description": "AutoCorrectPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2/BigThemePack.js",
+        "description": "BigThemePack"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2/Clock2.js",
+        "description": "Clock2"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2/CloseUnsavedOnCancel.js",
+        "description": "CloseUnsavedOnCancel"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2/CodeHighlightMacro.js",
+        "description": "CodeHighlightMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2/ConfigTweaks.js",
+        "description": "ConfigTweaks"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2/DropDownTagChooser.js",
+        "description": "DropDownTagChooser"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2/FlickrGreetingMacro.js",
+        "description": "FlickrGreetingMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2/HelloWorldMacro.js",
+        "description": "HelloWorldMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2/HideWhen.js",
+        "description": "HideWhen"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2/ImportTiddlersPlugin.js",
+        "description": "ImportTiddlersPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2/InstantTimestamp.js",
+        "description": "InstantTimestamp"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2/KubrickTheme.js",
+        "description": "KubrickTheme"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2/NestedSlidersPlugin.js",
+        "description": "NestedSlidersPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2/NewDocumentPlugin.js",
+        "description": "NewDocumentPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2/NewHereCommand.js",
+        "description": "NewHereCommand"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2/PositionAdsense.js",
+        "description": "PositionAdsense"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2/QuickOpenTagPlugin.js",
+        "description": "QuickOpenTagPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2/RearrangeTiddlersPlugin.js",
+        "description": "RearrangeTiddlersPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2/RefreshCommand.js",
+        "description": "RefreshCommand"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2/RenameTagsPlugin.js",
+        "description": "RenameTagsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2/RunMacroIfTagged.js",
+        "description": "RunMacroIfTagged"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2/SelectThemePlugin.js",
+        "description": "SelectThemePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2/ShowClockMacro.js",
+        "description": "ShowClockMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2/ShowExampleMacro.js",
+        "description": "ShowExampleMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2/SiteMapMacro.js",
+        "description": "SiteMapMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2/TWUpdate.js",
+        "description": "TWUpdate"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2/TagUtils.js",
+        "description": "TagUtils"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2/TagglyListPlugin.js",
+        "description": "TagglyListPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2/TiddlerExcerptTooltip.js",
+        "description": "TiddlerExcerptTooltip"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2/ToggleTagMacro.js",
+        "description": "ToggleTagMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2/UploadPlugin.js",
+        "description": "UploadPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2/ViewHtml.js",
+        "description": "ViewHtml"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2/WikifyContentsMacro.js",
+        "description": "WikifyContentsMacro"
+    }
+]
+//}}}

@@ -1,0 +1,61 @@
+|Source |https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyWikiClassicPluginsArchives.txt|
+|Version|0.1|
+//{{{
+[
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PrinceTiddlyWikiExtensions.txt",
+        "description": "PrinceTiddlyWikiExtensions",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MartinsPlugins.txt",
+        "description": "MartinsPlugins",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MonkeyPirateTW.txt",
+        "description": "MonkeyPirateTW",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/VisualTW2.txt",
+        "description": "VisualTW2",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/BobsPlugins.txt",
+        "description": "BobsPlugins",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/RedMountainVista.txt",
+        "description": "RedMountainVista",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PeachTW.txt",
+        "description": "PeachTW",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/BidiXTW.txt",
+        "description": "BidiXTW",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools.txt",
+        "description": "TiddlyTools",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/AbegoSoftware.txt",
+        "description": "AbegoSoftware",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyStyles.txt",
+        "description": "TiddlyStyles",
+        "type": "collection"
+    }
+]
+//}}}

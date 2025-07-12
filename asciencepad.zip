@@ -1,0 +1,15 @@
+<html><head><title>Request Rejected</title>
+<style>
+.shadow {
+  -moz-box-shadow:    3px 3px 5px 6px #800000;
+  -webkit-box-shadow: 3px 3px 5px 6px #800000;
+  box-shadow:         3px 3px 5px 6px #800000;
+  background-color: whitesmoke;
+}
+</style></head><body bgcolor="#A50034" style="font-family: Tahoma, Geneva, sans-serif;">
+<div class="shadow" style="margin:auto; width: 40%">
+<div style="padding: 5px;"><center><img src="https://www.chapman.edu/_bootstrap/images/logo.svg" alt="Chapman University" width="254" height="48" ></center><p/>The requested URL was blocked. If you believe you have reached this page in error, please contact the Service Desk.<br>
+<p/><h4>Chapman University Service Desk</h4>
+Phone: (714) 997-6600<br>
+E-mail: <a href="mailto:servicedesk@chapman.edu">servicedesk@chapman.edu</a>
+<br>Support ID: WAF-7662336125795930266<br><br><a href='javascript:history.back();'>[Go Back]</a></div></div></body></html>

@@ -1,0 +1,142 @@
+|Source |https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid.txt|
+|Version|0.1|
+//{{{
+[
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid/AccordionMenuPlugin.js",
+        "description": "AccordionMenuPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid/AnnotationsPlugin.js",
+        "description": "AnnotationsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid/BetterTimelineMacro.js",
+        "description": "BetterTimelineMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid/ConfigTiddler.js",
+        "description": "ConfigTiddler"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid/DropDownMenuPlugin.js",
+        "description": "DropDownMenuPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid/DropTaggingMacro.js",
+        "description": "DropTaggingMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid/DropTagsMacro.js",
+        "description": "DropTagsMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid/FontSizePlugin.js",
+        "description": "FontSizePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid/FootnotesPlugin.js",
+        "description": "FootnotesPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid/FullScreenPlugin.js",
+        "description": "FullScreenPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid/HoverMenuPlugin.js",
+        "description": "HoverMenuPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid/IconMacro.js",
+        "description": "IconMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid/JumpToTopMacro.js",
+        "description": "JumpToTopMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid/MenuEditPlugin.js",
+        "description": "MenuEditPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid/MonkeyTaggerMacro.js",
+        "description": "MonkeyTaggerMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid/NavigationMacro.js",
+        "description": "NavigationMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid/OpenTiddlersMacro.js",
+        "description": "OpenTiddlersMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid/PopupMacro.js",
+        "description": "PopupMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid/RSSHack.js",
+        "description": "RSSHack"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid/SaveAndReloadMacro.js",
+        "description": "SaveAndReloadMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid/SelectThemePlugin.js",
+        "description": "SelectThemePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid/ShowUpdatesPlugin.js",
+        "description": "ShowUpdatesPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid/SplashScreenPlugin.js",
+        "description": "SplashScreenPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid/TabEditPlugin.js",
+        "description": "TabEditPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid/TableSortingPlugin.js",
+        "description": "TableSortingPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid/TagAdderMacro.js",
+        "description": "TagAdderMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid/TaggerPlugin.js",
+        "description": "TaggerPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid/TiddlerNotesPlugin.js",
+        "description": "TiddlerNotesPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid/TiddlerWithEditPlugin.js",
+        "description": "TiddlerWithEditPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid/TiddlyLightBoxPlugin.js",
+        "description": "TiddlyLightBoxPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid/ToggleSideBarMacro.js",
+        "description": "ToggleSideBarMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid/ToolbarIconsPlugin.js",
+        "description": "ToolbarIconsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid/ZHoverMenuPluginConfig.js",
+        "description": "ZHoverMenuPluginConfig"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid/writeItMacro.js",
+        "description": "writeItMacro"
+    }
+]
+//}}}

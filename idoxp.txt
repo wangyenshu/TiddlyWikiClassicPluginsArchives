@@ -1,0 +1,130 @@
+|Source |https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/idoxp.txt|
+|Version|0.1|
+//{{{
+[
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/idoxp/AllowOnlineEdit.js",
+        "description": "AllowOnlineEdit"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/idoxp/AutoTaggerPlugin.js",
+        "description": "AutoTaggerPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/idoxp/CalendarPlugin.js",
+        "description": "CalendarPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/idoxp/ClustomFormatter.js",
+        "description": "ClustomFormatter"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/idoxp/ConfigTweaks.js",
+        "description": "ConfigTweaks"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/idoxp/CopyTiddlerPlugin.js",
+        "description": "CopyTiddlerPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/idoxp/DatePlugin.js",
+        "description": "DatePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/idoxp/DeleteAllTaggedCustom.js",
+        "description": "DeleteAllTaggedCustom"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/idoxp/DeleteAllTaggedPlugin.js",
+        "description": "DeleteAllTaggedPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/idoxp/DeleteDoneTasks.js",
+        "description": "DeleteDoneTasks"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/idoxp/ForEachTiddlerPlugin.js",
+        "description": "ForEachTiddlerPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/idoxp/ImportTiddlersPlugin.js",
+        "description": "ImportTiddlersPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/idoxp/IntelliTaggerPlugin.js",
+        "description": "IntelliTaggerPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/idoxp/LegacyStrikeThroughPlugin.js",
+        "description": "LegacyStrikeThroughPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/idoxp/MultiTagEditorPlugin.js",
+        "description": "MultiTagEditorPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/idoxp/NestedSliders.js",
+        "description": "NestedSliders"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/idoxp/NewHereCommand.js",
+        "description": "NewHereCommand"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/idoxp/NewerTiddlerPlugin.js",
+        "description": "NewerTiddlerPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/idoxp/QuickOpenTagPlugin.js",
+        "description": "QuickOpenTagPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/idoxp/ReminderMacros.js",
+        "description": "ReminderMacros"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/idoxp/RenameTagsPlugin.js",
+        "description": "RenameTagsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/idoxp/SearchOptionsPlugin.js",
+        "description": "SearchOptionsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/idoxp/ShowClockMacro.js",
+        "description": "ShowClockMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/idoxp/SinglePageModePlugin.js",
+        "description": "SinglePageModePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/idoxp/TagBasedTemplates.js",
+        "description": "TagBasedTemplates"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/idoxp/TagglyListPlugin.js",
+        "description": "TagglyListPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/idoxp/ToggleTagMacro.js",
+        "description": "ToggleTagMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/idoxp/TrashPlugin.js",
+        "description": "TrashPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/idoxp/UploadPlugin.js",
+        "description": "UploadPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/idoxp/WikifyContentsMacro.js",
+        "description": "WikifyContentsMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/idoxp/YourSearchPlugin.js",
+        "description": "YourSearchPlugin"
+    }
+]
+//}}}

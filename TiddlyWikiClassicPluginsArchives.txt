@@ -1,40 +1,25 @@
 |Source |https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyWikiClassicPluginsArchives.txt|
-|Version|0.1|
+|Version|0.2|
 //{{{
 [
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PrinceTiddlyWikiExtensions.txt",
-        "description": "PrinceTiddlyWikiExtensions",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/devpad.txt",
+        "description": "devpad",
         "type": "collection"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MartinsPlugins.txt",
-        "description": "MartinsPlugins",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyStyles.txt",
+        "description": "TiddlyStyles",
         "type": "collection"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MonkeyPirateTW.txt",
-        "description": "MonkeyPirateTW",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlerEncryption.txt",
+        "description": "TiddlerEncryption",
         "type": "collection"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/VisualTW2.txt",
-        "description": "VisualTW2",
-        "type": "collection"
-    },
-    {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/BobsPlugins.txt",
-        "description": "BobsPlugins",
-        "type": "collection"
-    },
-    {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/RedMountainVista.txt",
-        "description": "RedMountainVista",
-        "type": "collection"
-    },
-    {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PeachTW.txt",
-        "description": "PeachTW",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/README.txt",
+        "description": "README",
         "type": "collection"
     },
     {
@@ -43,8 +28,53 @@
         "type": "collection"
     },
     {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/tiddlylock.txt",
+        "description": "tiddlylock",
+        "type": "collection"
+    },
+    {
         "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools.txt",
         "description": "TiddlyTools",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/CodersTW.txt",
+        "description": "CodersTW",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/launchapplication.txt",
+        "description": "launchapplication",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/knightnet.txt",
+        "description": "knightnet",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TWMath.txt",
+        "description": "TWMath",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Conflation.txt",
+        "description": "Conflation",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/cctiddly.txt",
+        "description": "cctiddly",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/jtw.txt",
+        "description": "jtw",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/sampletimeline.txt",
+        "description": "sampletimeline",
         "type": "collection"
     },
     {
@@ -53,8 +83,98 @@
         "type": "collection"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyStyles.txt",
-        "description": "TiddlyStyles",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PrinceTiddlyWikiExtensions.txt",
+        "description": "PrinceTiddlyWikiExtensions",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/wikibar.txt",
+        "description": "wikibar",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/dahukanna.txt",
+        "description": "dahukanna",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/stickydate.txt",
+        "description": "stickydate",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/idoxp.txt",
+        "description": "idoxp",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/lewcid.txt",
+        "description": "lewcid",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/jtab.txt",
+        "description": "jtab",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/presentation.txt",
+        "description": "presentation",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/PeachTW.txt",
+        "description": "PeachTW",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/tiddlywinks.txt",
+        "description": "tiddlywinks",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/BobsPlugins.txt",
+        "description": "BobsPlugins",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/psoares.txt",
+        "description": "psoares",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Umibozu.txt",
+        "description": "Umibozu",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/RedMountainVista.txt",
+        "description": "RedMountainVista",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MartinsPlugins.txt",
+        "description": "MartinsPlugins",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/VisualTW2.txt",
+        "description": "VisualTW2",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/MonkeyPirateTW.txt",
+        "description": "MonkeyPirateTW",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/mptw2.txt",
+        "description": "mptw2",
+        "type": "collection"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/improvedslice.txt",
+        "description": "improvedslice",
         "type": "collection"
     }
 ]

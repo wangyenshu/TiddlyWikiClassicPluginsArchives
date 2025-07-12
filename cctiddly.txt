@@ -1,0 +1,98 @@
+|Source |https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/cctiddly.txt|
+|Version|0.1|
+//{{{
+[
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/cctiddly/001_ccTiddlyAdaptor.js",
+        "description": "001_ccTiddlyAdaptor"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/cctiddly/002_ccAbout.js",
+        "description": "002_ccAbout"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/cctiddly/002_ccAdmin.js",
+        "description": "002_ccAdmin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/cctiddly/002_ccChangePassword.js",
+        "description": "002_ccChangePassword"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/cctiddly/002_ccCreateWorkspace.js",
+        "description": "002_ccCreateWorkspace"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/cctiddly/002_ccEditWorkspace.js",
+        "description": "002_ccEditWorkspace"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/cctiddly/002_ccFiles.js",
+        "description": "002_ccFiles"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/cctiddly/002_ccLogin.js",
+        "description": "002_ccLogin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/cctiddly/002_ccLoginStatus.js",
+        "description": "002_ccLoginStatus"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/cctiddly/002_ccRegister.js",
+        "description": "002_ccRegister"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/cctiddly/002_ccStats.js",
+        "description": "002_ccStats"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/cctiddly/002_ccTiddlyPlugins.js",
+        "description": "002_ccTiddlyPlugins"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/cctiddly/003_ccLingo.js",
+        "description": "003_ccLingo"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/cctiddly/006_ccAssignments.js",
+        "description": "006_ccAssignments"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/cctiddly/007_backstage.js",
+        "description": "007_backstage"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/cctiddly/LoadRemoteFileThroughProxy.js",
+        "description": "LoadRemoteFileThroughProxy"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/cctiddly/OpenIDPlugin.js",
+        "description": "OpenIDPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/cctiddly/PATCH_displayDefaultTiddlers.js",
+        "description": "PATCH_displayDefaultTiddlers"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/cctiddly/PATCH_onGetTiddler.js",
+        "description": "PATCH_onGetTiddler"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/cctiddly/PATCH_restart.js",
+        "description": "PATCH_restart"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/cctiddly/ServerSideSavingPlugin.js",
+        "description": "ServerSideSavingPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/cctiddly/TaggedTemplateTweak.js",
+        "description": "TaggedTemplateTweak"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/cctiddly/taggedTabs.js",
+        "description": "taggedTabs"
+    }
+]
+//}}}

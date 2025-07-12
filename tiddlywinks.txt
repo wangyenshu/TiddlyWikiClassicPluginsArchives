@@ -1,0 +1,42 @@
+|Source |https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/tiddlywinks.txt|
+|Version|0.1|
+//{{{
+[
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/tiddlywinks/ConfigTweaks.js",
+        "description": "ConfigTweaks"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/tiddlywinks/Corner Div.js",
+        "description": "Corner Div"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/tiddlywinks/Dice Roller.js",
+        "description": "Dice Roller"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/tiddlywinks/Grid.js",
+        "description": "Grid"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/tiddlywinks/Minesweeper.js",
+        "description": "Minesweeper"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/tiddlywinks/NewHereCommand.js",
+        "description": "NewHereCommand"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/tiddlywinks/QuickOpenTagPlugin.js",
+        "description": "QuickOpenTagPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/tiddlywinks/RenameTagsPlugin.js",
+        "description": "RenameTagsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/tiddlywinks/TagglyListPlugin.js",
+        "description": "TagglyListPlugin"
+    }
+]
+//}}}

@@ -1,0 +1,14 @@
+|Source |https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/wikibar.txt|
+|Version|0.1|
+//{{{
+[
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/wikibar/WikiBar.js",
+        "description": "WikiBar"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/wikibar/mySave.js",
+        "description": "mySave"
+    }
+]
+//}}}

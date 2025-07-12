@@ -1,0 +1,86 @@
+|Source |https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Umibozu.txt|
+|Version|0.1|
+//{{{
+[
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Umibozu/BigThemePack.js",
+        "description": "BigThemePack"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Umibozu/FontSizePlugin.js",
+        "description": "FontSizePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Umibozu/FullScreenPlugin.js",
+        "description": "FullScreenPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Umibozu/HoverMenuPlugin.js",
+        "description": "HoverMenuPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Umibozu/IconMacro.js",
+        "description": "IconMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Umibozu/InlineSlidersPlugin.js",
+        "description": "InlineSlidersPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Umibozu/InlineTabsPlugin.js",
+        "description": "InlineTabsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Umibozu/IntelliTaggerPlugin.js",
+        "description": "IntelliTaggerPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Umibozu/LimitOpenTiddlersPlugin.js",
+        "description": "LimitOpenTiddlersPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Umibozu/PresentationPlugin.js",
+        "description": "PresentationPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Umibozu/QuickOpenTagPlugin.js",
+        "description": "QuickOpenTagPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Umibozu/RenameTagsPlugin.js",
+        "description": "RenameTagsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Umibozu/SelectThemePlugin.js",
+        "description": "SelectThemePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Umibozu/SplashScreenPlugin.js",
+        "description": "SplashScreenPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Umibozu/TagglyListPlugin.js",
+        "description": "TagglyListPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Umibozu/TagglyTaggingPlugin.js",
+        "description": "TagglyTaggingPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Umibozu/TiddlyLightBoxPlugin.js",
+        "description": "TiddlyLightBoxPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Umibozu/ToggleSideBarMacro.js",
+        "description": "ToggleSideBarMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Umibozu/ToolbarIconsPlugin.js",
+        "description": "ToolbarIconsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Umibozu/UploadPlugin.js",
+        "description": "UploadPlugin"
+    }
+]
+//}}}

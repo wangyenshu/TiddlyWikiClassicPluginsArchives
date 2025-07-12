@@ -1,0 +1,94 @@
+|Source |https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/CodersTW.txt|
+|Version|0.1|
+//{{{
+[
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/CodersTW/CascadingExcludeListsHack.js",
+        "description": "CascadingExcludeListsHack"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/CodersTW/CryptoFunctionsPlugin.js",
+        "description": "CryptoFunctionsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/CodersTW/DeprecatedFunctionsPlugin.js",
+        "description": "DeprecatedFunctionsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/CodersTW/EasyEditPlugin.js",
+        "description": "EasyEditPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/CodersTW/EncryptedVaultPlugin.js",
+        "description": "EncryptedVaultPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/CodersTW/ExternalizePlugin.js",
+        "description": "ExternalizePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/CodersTW/FCKeditorPlugin.js",
+        "description": "FCKeditorPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/CodersTW/FieldsEditorPlugin.js",
+        "description": "FieldsEditorPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/CodersTW/GotoPlugin.js",
+        "description": "GotoPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/CodersTW/HTMLFormattingPlugin.js",
+        "description": "HTMLFormattingPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/CodersTW/LessBackupsPlugin.js",
+        "description": "LessBackupsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/CodersTW/PicnikPlugin.js",
+        "description": "PicnikPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/CodersTW/PopupMacro.js",
+        "description": "PopupMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/CodersTW/RevisionsPlugin.js",
+        "description": "RevisionsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/CodersTW/SparklinePlugin.js",
+        "description": "SparklinePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/CodersTW/SyncFromSourcePlugin.js",
+        "description": "SyncFromSourcePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/CodersTW/TaggerPlugin.js",
+        "description": "TaggerPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/CodersTW/TagsTreePlugin.js",
+        "description": "TagsTreePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/CodersTW/TiddlersBarPlugin.js",
+        "description": "TiddlersBarPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/CodersTW/WikiBar.js",
+        "description": "WikiBar"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/CodersTW/externalPluginsPatches.js",
+        "description": "externalPluginsPatches"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/CodersTW/sourcenikFormatter.js",
+        "description": "sourcenikFormatter"
+    }
+]
+//}}}

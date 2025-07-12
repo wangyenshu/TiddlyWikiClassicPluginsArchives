@@ -1,0 +1,14 @@
+|Source |https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/sampletimeline.txt|
+|Version|0.1|
+//{{{
+[
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/sampletimeline/APISimileTimeline.js",
+        "description": "APISimileTimeline"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/sampletimeline/PluginSimileTimeline.js",
+        "description": "PluginSimileTimeline"
+    }
+]
+//}}}

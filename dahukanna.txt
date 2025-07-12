@@ -1,0 +1,10 @@
+|Source |https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/dahukanna.txt|
+|Version|0.1|
+//{{{
+[
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/dahukanna/zconfiguration.js",
+        "description": "zconfiguration"
+    }
+]
+//}}}

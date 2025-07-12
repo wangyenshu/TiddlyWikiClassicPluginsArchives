@@ -1,0 +1,10 @@
+|Source |https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlerEncryption.txt|
+|Version|0.1|
+//{{{
+[
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlerEncryption/TiddlerEncryptionPlugin.js",
+        "description": "LaunchApplicationPlugin"
+    }
+]
+//}}}

@@ -1,0 +1,1 @@
+config.options.chkAnimate=false;

@@ -1,0 +1,50 @@
+|Source |https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/psoares.txt|
+|Version|0.1|
+//{{{
+[
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/psoares/BibTeXPlugin.js",
+        "description": "BibTeXPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/psoares/LinkToPlugin.js",
+        "description": "LinkToPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/psoares/PasswordOptionPlugin.js",
+        "description": "PasswordOptionPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/psoares/PhotoGalleryPlugin.js",
+        "description": "PhotoGalleryPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/psoares/SlideShowPlugin.js",
+        "description": "SlideShowPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/psoares/TaggerCommand.js",
+        "description": "TaggerCommand"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/psoares/ToggleSideBarMacro.js",
+        "description": "ToggleSideBarMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/psoares/TweaksPlugin.js",
+        "description": "TweaksPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/psoares/UploadPlugin.js",
+        "description": "UploadPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/psoares/UploadPluginOptions.js",
+        "description": "UploadPluginOptions"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/psoares/WikipediaMacro.js",
+        "description": "WikipediaMacro"
+    }
+]
+//}}}

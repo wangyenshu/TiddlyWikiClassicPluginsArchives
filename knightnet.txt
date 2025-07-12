@@ -1,0 +1,46 @@
+|Source |https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/knightnet.txt|
+|Version|0.1|
+//{{{
+[
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/knightnet/CustomConfigMacro.js",
+        "description": "CustomConfigMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/knightnet/DropTaggingMacro.js",
+        "description": "DropTaggingMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/knightnet/PartTiddlerPlugin.js",
+        "description": "PartTiddlerPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/knightnet/TWUpdate.js",
+        "description": "TWUpdate"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/knightnet/TaggerPlugin.js",
+        "description": "TaggerPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/knightnet/TiddlerListMacro.js",
+        "description": "TiddlerListMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/knightnet/betterFormatterPlugin.js",
+        "description": "betterFormatterPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/knightnet/cancelClose.js",
+        "description": "cancelClose"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/knightnet/fileDate.js",
+        "description": "fileDate"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/knightnet/saveClose.js",
+        "description": "saveClose"
+    }
+]
+//}}}

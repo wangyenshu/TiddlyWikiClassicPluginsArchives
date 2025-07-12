@@ -1,0 +1,46 @@
+|Source |https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/presentation.txt|
+|Version|0.1|
+//{{{
+[
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/presentation/BoldLinksPlugin.js",
+        "description": "BoldLinksPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/presentation/ConfigSettings.js",
+        "description": "ConfigSettings"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/presentation/FooterHack.js",
+        "description": "FooterHack"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/presentation/InfoPlugin.js",
+        "description": "InfoPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/presentation/LegacyStrikeThroughPlugin.js",
+        "description": "LegacyStrikeThroughPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/presentation/NavigationPlugin.js",
+        "description": "NavigationPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/presentation/PresentationPlugin.js",
+        "description": "PresentationPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/presentation/SinglePageModePlugin.js",
+        "description": "SinglePageModePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/presentation/TiddlerSubtitleTweak.js",
+        "description": "TiddlerSubtitleTweak"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/presentation/TopMacro.js",
+        "description": "TopMacro"
+    }
+]
+//}}}

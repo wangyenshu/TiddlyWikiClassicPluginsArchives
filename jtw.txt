@@ -1,0 +1,126 @@
+|Source |https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/jtw.txt|
+|Version|0.1|
+//{{{
+[
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/jtw/AllowOnlineEdit.js",
+        "description": "AllowOnlineEdit"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/jtw/ArchivePlugin.js",
+        "description": "ArchivePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/jtw/BreadCrumbsPlugin.js",
+        "description": "BreadCrumbsPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/jtw/CloseUnsavedOnCancel.js",
+        "description": "CloseUnsavedOnCancel"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/jtw/ConfigOptionsMacro.js",
+        "description": "ConfigOptionsMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/jtw/DefinitionMacro.js",
+        "description": "DefinitionMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/jtw/DeliciousTagging.js",
+        "description": "DeliciousTagging"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/jtw/DoBackupMacro.js",
+        "description": "DoBackupMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/jtw/DropTaggingMacro.js",
+        "description": "DropTaggingMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/jtw/ExternalTiddlersPlugin.js",
+        "description": "ExternalTiddlersPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/jtw/Hacks.js",
+        "description": "Hacks"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/jtw/MultiTagEditorPlugin.js",
+        "description": "MultiTagEditorPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/jtw/MyMacroMacro.js",
+        "description": "MyMacroMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/jtw/NewFromTemplateMacro.js",
+        "description": "NewFromTemplateMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/jtw/PluginTemplate.js",
+        "description": "PluginTemplate"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/jtw/PluralAliasPlugin.js",
+        "description": "PluralAliasPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/jtw/PublishMacro.js",
+        "description": "PublishMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/jtw/ReferrersMacro.js",
+        "description": "ReferrersMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/jtw/SQLQueryPlugin.js",
+        "description": "SQLQueryPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/jtw/SaveCloseMacro.js",
+        "description": "SaveCloseMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/jtw/SectionMacro.js",
+        "description": "SectionMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/jtw/ShowParamsMacro.js",
+        "description": "ShowParamsMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/jtw/SinglePageModePlugin.js",
+        "description": "SinglePageModePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/jtw/TabEditPlugin.js",
+        "description": "TabEditPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/jtw/TagAdderMacro.js",
+        "description": "TagAdderMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/jtw/TiddlerListMacro.js",
+        "description": "TiddlerListMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/jtw/TiddlerWithEditPlugin.js",
+        "description": "TiddlerWithEditPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/jtw/TiddlersBarPlugin.js",
+        "description": "TiddlersBarPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/jtw/ToggleTagMacro.js",
+        "description": "ToggleTagMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/jtw/WriteMacro.js",
+        "description": "WriteMacro"
+    }
+]
+//}}}

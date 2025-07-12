@@ -1,0 +1,66 @@
+|Source |https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Conflation.txt|
+|Version|0.1|
+//{{{
+[
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Conflation/BlogUserPlugin.js",
+        "description": "BlogUserPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Conflation/CheckboxPlugin.js",
+        "description": "CheckboxPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Conflation/DatePlugin.js",
+        "description": "DatePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Conflation/EmailLink.js",
+        "description": "EmailLink"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Conflation/FontSizePlugin.js",
+        "description": "FontSizePlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Conflation/HideWhenPlugin.js",
+        "description": "HideWhenPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Conflation/HoverMenuPlugin.js",
+        "description": "HoverMenuPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Conflation/NestedSlidersPlugin.js",
+        "description": "NestedSlidersPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Conflation/ReminderMacros.js",
+        "description": "ReminderMacros"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Conflation/SiteConfig.js",
+        "description": "SiteConfig"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Conflation/SplashScreenPlugin.js",
+        "description": "SplashScreenPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Conflation/TiddlersBarPlugin.js",
+        "description": "TiddlersBarPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Conflation/ToggleTagMacro.js",
+        "description": "ToggleTagMacro"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Conflation/UploadPlugin.js",
+        "description": "UploadPlugin"
+    },
+    {
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/Conflation/YourSearchPlugin.js",
+        "description": "YourSearchPlugin"
+    }
+]
+//}}}
