@@ -479,295 +479,295 @@
         "description": "WikifyPlugin"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsAllThumbs.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/AllThumbs.js",
         "description": "AllThumbs"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsAnimationEffectsSampler.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/AnimationEffectsSampler.js",
         "description": "AnimationEffectsSampler"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsAutoRefresh.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/AutoRefresh.js",
         "description": "AutoRefresh"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsBookmarkList.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/BookmarkList.js",
         "description": "BookmarkList"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsBreadcrumbsCommand.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/BreadcrumbsCommand.js",
         "description": "BreadcrumbsCommand"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsCheckboxToggleTag.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/CheckboxToggleTag.js",
         "description": "CheckboxToggleTag"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsCloseOtherTiddlers.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/CloseOtherTiddlers.js",
         "description": "CloseOtherTiddlers"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsCycleThemes.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/CycleThemes.js",
         "description": "CycleThemes"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsDailyChecklist.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/DailyChecklist.js",
         "description": "DailyChecklist"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsDigitalClock.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/DigitalClock.js",
         "description": "DigitalClock"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsEmbedTiddlers.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/EmbedTiddlers.js",
         "description": "EmbedTiddlers"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsFoldOtherTiddlers.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/FoldOtherTiddlers.js",
         "description": "FoldOtherTiddlers"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsGetTheFAQs.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/GetTheFAQs.js",
         "description": "GetTheFAQs"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsHideTiddlerBackground.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/HideTiddlerBackground.js",
         "description": "HideTiddlerBackground"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsHideTiddlerSubtitle.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/HideTiddlerSubtitle.js",
         "description": "HideTiddlerSubtitle"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsHideTiddlerTags.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/HideTiddlerTags.js",
         "description": "HideTiddlerTags"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsHideTiddlerTitle.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/HideTiddlerTitle.js",
         "description": "HideTiddlerTitle"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsHideTiddlerToolbar.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/HideTiddlerToolbar.js",
         "description": "HideTiddlerToolbar"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsInstantBookmarklets.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/InstantBookmarklets.js",
         "description": "InstantBookmarklets"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsLoadRemotePlugin.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/LoadRemotePlugin.js",
         "description": "LoadRemotePlugin"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsMicroBrowser.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/MicroBrowser.js",
         "description": "MicroBrowser"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsMicroCalc.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/MicroCalc.js",
         "description": "MicroCalc"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsMoveTiddlerToTop.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/MoveTiddlerToTop.js",
         "description": "MoveTiddlerToTop"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsNextTiddler.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/NextTiddler.js",
         "description": "NextTiddler"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsOpenAllTiddlers.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/OpenAllTiddlers.js",
         "description": "OpenAllTiddlers"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsOpenTaggedTiddlers.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/OpenTaggedTiddlers.js",
         "description": "OpenTaggedTiddlers"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsOpenTiddlers.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/OpenTiddlers.js",
         "description": "OpenTiddlers"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsPaletteMaker.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/PaletteMaker.js",
         "description": "PaletteMaker"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsQuickEditToolbar.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/QuickEditToolbar.js",
         "description": "QuickEditToolbar"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsQuickSearchPopup.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/QuickSearchPopup.js",
         "description": "QuickSearchPopup"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsRefreshPageDisplay.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/RefreshPageDisplay.js",
         "description": "RefreshPageDisplay"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsRefreshTiddler.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/RefreshTiddler.js",
         "description": "RefreshTiddler"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsReplaceDoubleClick.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ReplaceDoubleClick.js",
         "description": "ReplaceDoubleClick"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsReplaceTiddlerTitle.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ReplaceTiddlerTitle.js",
         "description": "ReplaceTiddlerTitle"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsResetChangeCounters.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ResetChangeCounters.js",
         "description": "ResetChangeCounters"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsResetOptionCookies.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ResetOptionCookies.js",
         "description": "ResetOptionCookies"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsRollText.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/RollText.js",
         "description": "RollText"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsSaveBreadcrumbs.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/SaveBreadcrumbs.js",
         "description": "SaveBreadcrumbs"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsSaveToClipboard.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/SaveToClipboard.js",
         "description": "SaveToClipboard"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsScrollBox.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ScrollBox.js",
         "description": "ScrollBox"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsSetPopupsHeight.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/SetPopupsHeight.js",
         "description": "SetPopupsHeight"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsSetSidebarTabsHeight.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/SetSidebarTabsHeight.js",
         "description": "SetSidebarTabsHeight"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsSetStoryHeight.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/SetStoryHeight.js",
         "description": "SetStoryHeight"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsSetTiddlerBackground.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/SetTiddlerBackground.js",
         "description": "SetTiddlerBackground"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsSetTiddlerColumns.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/SetTiddlerColumns.js",
         "description": "SetTiddlerColumns"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsSetTiddlerHeight.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/SetTiddlerHeight.js",
         "description": "SetTiddlerHeight"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsShowAge.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ShowAge.js",
         "description": "ShowAge"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsShowDocumentInfo.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ShowDocumentInfo.js",
         "description": "ShowDocumentInfo"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsShowImage.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ShowImage.js",
         "description": "ShowImage"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsShowLocalDirectory.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ShowLocalDirectory.js",
         "description": "ShowLocalDirectory"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsShowObject.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ShowObject.js",
         "description": "ShowObject"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsShowPlugins.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ShowPlugins.js",
         "description": "ShowPlugins"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsShowSimilarTiddlers.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ShowSimilarTiddlers.js",
         "description": "ShowSimilarTiddlers"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsShowTabsForTags.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ShowTabsForTags.js",
         "description": "ShowTabsForTags"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsShowTiddlerStatistics.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ShowTiddlerStatistics.js",
         "description": "ShowTiddlerStatistics"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsSlideshowTimer.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/SlideshowTimer.js",
         "description": "SlideshowTimer"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsThumbThing.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ThumbThing.js",
         "description": "ThumbThing"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsTinyChat.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/TinyChat.js",
         "description": "TinyChat"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsToggleAnimations.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ToggleAnimations.js",
         "description": "ToggleAnimations"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsToggleBreadcrumbs.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ToggleBreadcrumbs.js",
         "description": "ToggleBreadcrumbs"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsToggleFullScreen.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ToggleFullScreen.js",
         "description": "ToggleFullScreen"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsToggleLeftSidebar.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ToggleLeftSidebar.js",
         "description": "ToggleLeftSidebar"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsToggleReadOnly.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ToggleReadOnly.js",
         "description": "ToggleReadOnly"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsToggleRightSidebar.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ToggleRightSidebar.js",
         "description": "ToggleRightSidebar"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsToggleScrollingSidebars.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ToggleScrollingSidebars.js",
         "description": "ToggleScrollingSidebars"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsToggleSiteMenu.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ToggleSiteMenu.js",
         "description": "ToggleSiteMenu"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsToggleSiteTitles.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ToggleSiteTitles.js",
         "description": "ToggleSiteTitles"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsToggleSliders.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ToggleSliders.js",
         "description": "ToggleSliders"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsToggleTiddlerTags.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ToggleTiddlerTags.js",
         "description": "ToggleTiddlerTags"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsToggleTiddlerTitles.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/ToggleTiddlerTitles.js",
         "description": "ToggleTiddlerTitles"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsTwitterTabs.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/TwitterTabs.js",
         "description": "TwitterTabs"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsVisitCounter.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/VisitCounter.js",
         "description": "VisitCounter"
     },
     {
-        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyToolsWordCount.js",
+        "url": "https://github.com/wangyenshu/TiddlyWikiClassicPluginsArchives/blob/main/TiddlyTools/WordCount.js",
         "description": "WordCount"
     }
 ]

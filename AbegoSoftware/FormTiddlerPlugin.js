@@ -1,43 +1,36 @@
-200: filename content-length last-modified file-type
-201: bin 0 Wed,%2009%20Jul%202025%2015:00:29%20GMT DIRECTORY 
-201: bin.usr-is-merged 0 Mon,%2026%20Feb%202024%2012:58:31%20GMT DIRECTORY 
-201: boot 0 Fri,%2004%20Jul%202025%2014:46:45%20GMT DIRECTORY 
-201: cdrom 0 Thu,%2004%20Apr%202024%2012:32:59%20GMT DIRECTORY 
-201: debug 620 Tue,%2013%20May%202025%2015:26:34%20GMT FILE 
-201: dev 0 Wed,%2009%20Jul%202025%2014:19:38%20GMT DIRECTORY 
-201: errno 2413663 Sat,%2019%20Oct%202024%2001:29:52%20GMT FILE 
-201: etc 0 Wed,%2009%20Jul%202025%2015:00:31%20GMT DIRECTORY 
-201: fileinput 320744 Sat,%2019%20Oct%202024%2001:29:51%20GMT FILE 
-201: glob 5739 Sat,%2019%20Oct%202024%2001:29:46%20GMT FILE 
-201: home 0 Thu,%2004%20Apr%202024%2012:33:28%20GMT DIRECTORY 
-201: lib 0 Wed,%2002%20Jul%202025%2004:57:56%20GMT DIRECTORY 
-201: lib.usr-is-merged 0 Mon,%2026%20Feb%202024%2012:58:31%20GMT DIRECTORY 
-201: lib32 0 Fri,%2007%20Feb%202025%2016:43:01%20GMT DIRECTORY 
-201: lib64 0 Fri,%2007%20Feb%202025%2016:43:04%20GMT DIRECTORY 
-201: libx32 0 Tue,%2020%20Feb%202024%2019:22:08%20GMT DIRECTORY 
-201: logging 12189986 Sat,%2019%20Oct%202024%2001:23:03%20GMT FILE 
-201: logging.handlers 6645 Sat,%2019%20Oct%202024%2001:23:05%20GMT FILE 
-201: lost+found 0 Thu,%2004%20Apr%202024%2012:31:18%20GMT DIRECTORY 
-201: media 0 Fri,%2013%20Jun%202025%2020:34:06%20GMT DIRECTORY 
-201: mnt 0 Wed,%2002%20Jul%202025%2000:01:44%20GMT DIRECTORY 
-201: nix 0 Thu,%2016%20May%202024%2007:09:42%20GMT DIRECTORY 
-201: opt 0 Wed,%2030%20Apr%202025%2022:41:18%20GMT DIRECTORY 
-201: os 2413660 Sat,%2019%20Oct%202024%2001:23:05%20GMT FILE 
-201: platform 2413666 Sat,%2019%20Oct%202024%2001:29:41%20GMT FILE 
-201: proc 0 Wed,%2009%20Jul%202025%2014:19:15%20GMT DIRECTORY 
-201: re 6241 Sat,%2019%20Oct%202024%2001:29:45%20GMT FILE 
-201: root 0 Fri,%2004%20Jul%202025%2004:22:19%20GMT DIRECTORY 
-201: run 0 Wed,%2009%20Jul%202025%2019:54:21%20GMT DIRECTORY 
-201: sbin 0 Wed,%2009%20Jul%202025%2015:00:29%20GMT DIRECTORY 
-201: sbin.usr-is-merged 0 Thu,%2022%20Aug%202024%2012:26:53%20GMT DIRECTORY 
-201: shutil 2413664 Sat,%2019%20Oct%202024%2001:29:46%20GMT FILE 
-201: signal 2413664 Sat,%2019%20Oct%202024%2001:29:52%20GMT FILE 
-201: snap 0 Thu,%2006%20Mar%202025%2017:19:04%20GMT DIRECTORY 
-201: srv 0 Tue,%2020%20Feb%202024%2019:22:09%20GMT DIRECTORY 
-201: stat 320739 Sat,%2019%20Oct%202024%2001:29:50%20GMT FILE 
-201: subprocess 12189989 Sat,%2019%20Oct%202024%2001:29:48%20GMT FILE 
-201: sys 0 Wed,%2009%20Jul%202025%2014:19:15%20GMT DIRECTORY 
-201: time 12189983 Sat,%2019%20Oct%202024%2001:29:50%20GMT FILE 
-201: tmp 0 Wed,%2009%20Jul%202025%2019:54:26%20GMT DIRECTORY 
-201: usr 0 Fri,%2018%20Oct%202024%2015:58:36%20GMT DIRECTORY 
-201: var 0 Sat,%2019%20Oct%202024%2000:34:26%20GMT DIRECTORY 
+/***
+<<checkForDataTiddlerPlugin>>
+|''Name:''|FormTiddlerPlugin|
+|''Version:''|1.0.7 (2012-04-19)|
+|''Summary:''|Use form-based tiddlers to enter your tiddler data using text fields, listboxes, checkboxes etc. (All standard HTML Form input elements supported).|
+|''Documentation:''|[[Introduction|FormTiddler Introduction]], [[Examples|FormTiddler Examples]]|
+|''Source:''|http://tiddlywiki.abego-software.de/#FormTiddlerPlugin|
+|''Twitter:''|[[@abego|https://twitter.com/#!/abego]]|
+|''Author:''|UdoBorkowski (ub [at] abego-software [dot] de)|
+|''License:''|[[BSD open source license|http://www.abego-software.de/legal/apl-v10.html]]|
+|''Requires:''|DataTiddlerPlugin|
+!Description
+Use form-based tiddlers to enter your tiddler data using text fields, listboxes, checkboxes etc. (All standard HTML Form input elements supported).
+
+''Syntax:''
+|>|{{{<<}}}''formTiddler'' //tiddlerName//{{{>>}}}|
+|//tiddlerName//|The name of the FormTemplate tiddler to be used to edit the data of the tiddler containing the macro.|
+
+|>|{{{<<}}}''newTiddlerWithForm'' //formTemplateName// //buttonLabel// [//titleExpression// [''askUser'']] {{{>>}}}|
+|//formTemplateName//|The name of the tiddler that defines the form the new tiddler should use.|
+|//buttonLabel//|The label of the button|
+|//titleExpression//|A (quoted) JavaScript String expression that defines the title (/name) of the new tiddler.|
+|''askUser''|Typically the user is not asked for the title when a title is specified (and not yet used). When ''askUser'' is given the user will be asked in any case. This may be used when the calculated title is just a suggestion that must be confirmed by the user|
+|>|~~Syntax formatting: Keywords in ''bold'', optional parts in [...]. 'or' means that exactly one of the two alternatives must exist.~~|
+
+For details and how to use the macros see the [[introduction|FormTiddler Introduction]] and the [[examples|FormTiddler Examples]].
+
+!Source Code
+***/
+/***
+This plugin's source code is compressed (and hidden).
+Use this [[link|http://tiddlywiki.abego-software.de/archive/FormTiddlerPlugin/1.0.7/FormTiddlerPlugin-1.0.7-src.js]] to get the readable source code.
+***/
+///%
+if(!window.abego){window.abego={}}abego.getOptionsValue=function(c,b){var a=c.options[b].value;if(!a&&c.options[b].text){a=c.options[b].text}return a};version.extensions.FormTiddlerPlugin={major:1,minor:0,revision:7,date:new Date(2012,3,19),type:"plugin",source:"http://tiddlywiki.abego-software.de/#FormTiddlerPlugin"};if(!window.story){window.story=window}if(!TiddlyWiki.prototype.getTiddler){TiddlyWiki.prototype.getTiddler=function(a){return t=this.tiddlers[a];return(t!=undefined&&t instanceof Tiddler)?t:null}}config.macros.formTiddler={label:"formTiddler",prompt:"Edit tiddler data using forms",setter:{button:function(b,a){},checkbox:function(b,a){b.checked=a},file:function(b,a){try{b.value=a}catch(b){}},hidden:function(b,a){b.value=a},password:function(b,a){b.value=a},radio:function(b,a){b.checked=(b.value==a)},reset:function(b,a){},"select-one":function(b,a){config.macros.formTiddler.setSelectOneValue(b,a)},"select-multiple":function(b,a){config.macros.formTiddler.setSelectMultipleValue(b,a)},submit:function(b,a){},text:function(b,a){b.value=a},textarea:function(b,a){b.value=a}},getter:{button:function(b,a){return undefined},checkbox:function(b,a){return b.checked},file:function(b,a){return b.value},hidden:function(b,a){return b.value},password:function(b,a){return b.value},radio:function(b,a){return b.checked?b.value:undefined},reset:function(b,a){return undefined},"select-one":function(b,a){return config.macros.formTiddler.getSelectOneValue(b)},"select-multiple":function(b,a){return config.macros.formTiddler.getSelectMultipleValue(b)},submit:function(b,a){return undefined},text:function(b,a){return b.value},textarea:function(b,a){return b.value}}};config.macros.formTiddler.handler=function(g,c,f,h,d,n){if(!config.macros.formTiddler.checkForExtensions(g,c)){return}var j=0;var l=undefined;if(j<f.length){l=f[j];j++}if(!l){config.macros.formTiddler.createErrorElement(g,"No form template specified in <<"+c+">>.");return}var a=store.getTiddler(l);if(!a){config.macros.formTiddler.createErrorElement(g,"Form template '"+l+"' not found.");return}var m=a.text;if(!m){return}var b=config.macros.formTiddler.getContainingTiddlerName(g);var o="form"+l+"__"+b;var k=document.createElement("form");k.setAttribute("name",o);g.appendChild(k);wikify(m,k);config.macros.formTiddler.initValuesAndHandlersInFormElements(o,DataTiddler.getDataObject(b))};config.macros.formTiddler.initValuesAndHandlersInFormElements=function(l,f){var b=config.macros.formTiddler.findForm(l);if(!b){return}try{var a=b.elements;for(var g=0;g<a.length;g++){var j=a[g];var d=config.macros.formTiddler.setter[j.type];if(d){var k=f[j.name];if(k!=null){d(j,k)}j.onchange=onFormTiddlerChange}else{config.macros.formTiddler.displayFormTiddlerError("No setter defined for INPUT element of type '"+j.type+"'. (Element '"+j.name+"' in form '"+l+"')")}}}catch(h){config.macros.formTiddler.displayFormTiddlerError("Error when updating elements with new formData. "+h)}};config.macros.formTiddler.findForm=function(c){var a=window.document.forms;for(var b=0;b<a.length;b++){var d=a[b];if(d.name==c){return d}}return null};config.macros.formTiddler.setSelectOneValue=function(b,c){var d=b.options.length;for(var a=0;a<d;a++){b.options[a].selected=abego.getOptionsValue(b,a)==c}};config.macros.formTiddler.setSelectMultipleValue=function(c,d){var a={};for(var b=0;b<d.length;b++){a[d[b]]=true}var e=c.length;for(var b=0;b<e;b++){c.options[b].selected=!(!a[abego.getOptionsValue(c,b)])}};config.macros.formTiddler.getSelectOneValue=function(b){var a=b.selectedIndex;return(a>=0)?abego.getOptionsValue(b,a):null};config.macros.formTiddler.getSelectMultipleValue=function(c){var a=[];var d=c.length;for(var b=0;b<d;b++){if(c.options[b].selected){a.push(abego.getOptionsValue(c,b))}}return a};config.macros.formTiddler.checkForExtensions=function(a,b){if(!version.extensions.DataTiddlerPlugin){config.macros.formTiddler.createErrorElement(a,"<<"+b+">> requires the DataTiddlerPlugin. (You can get it from http://tiddlywiki.abego-software.de/#DataTiddlerPlugin)");return false}return true};config.macros.formTiddler.trace=function(a){displayMessage("Trace: "+a)};config.macros.formTiddler.displayFormTiddlerError=function(a){alert("FormTiddlerPlugin Error: "+a)};config.macros.formTiddler.createErrorElement=function(a,b){return createTiddlyElement(a,"span",null,"formTiddlerError",b)};config.macros.formTiddler.getContainingTiddlerName=function(a){return story.findContainingTiddler(a).getAttribute("tiddler")};function onFormTiddlerChange(f){if(!f){f=window.event}var d=resolveTarget(f);var b=config.macros.formTiddler.getContainingTiddlerName(d);var a=config.macros.formTiddler.getter[d.type];if(a){var c=a(d);DataTiddler.setData(b,d.name,c)}else{config.macros.formTiddler.displayFormTiddlerError("No getter defined for INPUT element of type '"+d.type+"'. (Element '"+d.name+"' used in tiddler '"+b+"')")}}window.onFormTiddlerChange=onFormTiddlerChange;setStylesheet(".formTiddlerError{color: #ffffff;background-color: #880000;}","formTiddler");config.macros.checkForDataTiddlerPlugin={label:"checkForDataTiddlerPlugin",version:{major:1,minor:0,revision:0,date:new Date(2005,12,14)},prompt:"Check if the DataTiddlerPlugin exists"};config.macros.checkForDataTiddlerPlugin.handler=function(a,b,c){config.macros.formTiddler.checkForExtensions(a,config.macros.formTiddler.label)};config.macros.newTiddlerWithForm={label:"newTiddlerWithForm",version:{major:1,minor:0,revision:1,date:new Date(2006,1,6)},prompt:"Creates a new Tiddler with a <<formTiddler ...>> macro"};config.macros.newTiddlerWithForm.handler=function(place,macroName,params){var i=0;var formTemplateName=undefined;if(i<params.length){formTemplateName=params[i];i++}if(!formTemplateName){config.macros.formTiddler.createErrorElement(place,"No form template specified in <<"+macroName+">>.");return}var buttonLabel=undefined;if(i<params.length){buttonLabel=params[i];i++}if(!buttonLabel){config.macros.formTiddler.createErrorElement(place,"No button label specified in <<"+macroName+">>.");return}var tiddlerNameScript=undefined;var askUser=false;if(i<params.length){tiddlerNameScript=params[i];i++;if(i<params.length&&params[i]=="askUser"){askUser=true;i++}}if(!readOnly){var onClick=function(){var tiddlerName=undefined;if(tiddlerNameScript){try{tiddlerName=eval(tiddlerNameScript)}catch(ex){}}if(!tiddlerName||askUser){tiddlerName=prompt("Please specify a tiddler name.",askUser?tiddlerName:"")}while(tiddlerName&&store.getTiddler(tiddlerName)){tiddlerName=prompt("A tiddler named '"+tiddlerName+"' already exists.\n\nPlease specify a tiddler name.",tiddlerName)}if(tiddlerName){var body="<<formTiddler [["+formTemplateName+"]]>>";var tags=[];store.saveTiddler(tiddlerName,tiddlerName,body,config.options.txtUserName,new Date(),tags);story.displayTiddler(null,tiddlerName,1)}};createTiddlyButton(place,buttonLabel,buttonLabel,onClick)}};
+//%/

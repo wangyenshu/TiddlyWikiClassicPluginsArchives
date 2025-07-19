@@ -1,43 +1,26 @@
-200: filename content-length last-modified file-type
-201: bin 0 Wed,%2009%20Jul%202025%2015:00:29%20GMT DIRECTORY 
-201: bin.usr-is-merged 0 Mon,%2026%20Feb%202024%2012:58:31%20GMT DIRECTORY 
-201: boot 0 Fri,%2004%20Jul%202025%2014:46:45%20GMT DIRECTORY 
-201: cdrom 0 Thu,%2004%20Apr%202024%2012:32:59%20GMT DIRECTORY 
-201: debug 620 Tue,%2013%20May%202025%2015:26:34%20GMT FILE 
-201: dev 0 Wed,%2009%20Jul%202025%2014:19:38%20GMT DIRECTORY 
-201: errno 2413663 Sat,%2019%20Oct%202024%2001:29:52%20GMT FILE 
-201: etc 0 Wed,%2009%20Jul%202025%2015:00:31%20GMT DIRECTORY 
-201: fileinput 320744 Sat,%2019%20Oct%202024%2001:29:51%20GMT FILE 
-201: glob 5739 Sat,%2019%20Oct%202024%2001:29:46%20GMT FILE 
-201: home 0 Thu,%2004%20Apr%202024%2012:33:28%20GMT DIRECTORY 
-201: lib 0 Wed,%2002%20Jul%202025%2004:57:56%20GMT DIRECTORY 
-201: lib.usr-is-merged 0 Mon,%2026%20Feb%202024%2012:58:31%20GMT DIRECTORY 
-201: lib32 0 Fri,%2007%20Feb%202025%2016:43:01%20GMT DIRECTORY 
-201: lib64 0 Fri,%2007%20Feb%202025%2016:43:04%20GMT DIRECTORY 
-201: libx32 0 Tue,%2020%20Feb%202024%2019:22:08%20GMT DIRECTORY 
-201: logging 12189986 Sat,%2019%20Oct%202024%2001:23:03%20GMT FILE 
-201: logging.handlers 6645 Sat,%2019%20Oct%202024%2001:23:05%20GMT FILE 
-201: lost+found 0 Thu,%2004%20Apr%202024%2012:31:18%20GMT DIRECTORY 
-201: media 0 Fri,%2013%20Jun%202025%2020:34:06%20GMT DIRECTORY 
-201: mnt 0 Wed,%2002%20Jul%202025%2000:01:44%20GMT DIRECTORY 
-201: nix 0 Thu,%2016%20May%202024%2007:09:42%20GMT DIRECTORY 
-201: opt 0 Wed,%2030%20Apr%202025%2022:41:18%20GMT DIRECTORY 
-201: os 2413660 Sat,%2019%20Oct%202024%2001:23:05%20GMT FILE 
-201: platform 2413666 Sat,%2019%20Oct%202024%2001:29:41%20GMT FILE 
-201: proc 0 Wed,%2009%20Jul%202025%2014:19:15%20GMT DIRECTORY 
-201: re 6241 Sat,%2019%20Oct%202024%2001:29:45%20GMT FILE 
-201: root 0 Fri,%2004%20Jul%202025%2004:22:19%20GMT DIRECTORY 
-201: run 0 Wed,%2009%20Jul%202025%2019:54:21%20GMT DIRECTORY 
-201: sbin 0 Wed,%2009%20Jul%202025%2015:00:29%20GMT DIRECTORY 
-201: sbin.usr-is-merged 0 Thu,%2022%20Aug%202024%2012:26:53%20GMT DIRECTORY 
-201: shutil 2413664 Sat,%2019%20Oct%202024%2001:29:46%20GMT FILE 
-201: signal 2413664 Sat,%2019%20Oct%202024%2001:29:52%20GMT FILE 
-201: snap 0 Thu,%2006%20Mar%202025%2017:19:04%20GMT DIRECTORY 
-201: srv 0 Tue,%2020%20Feb%202024%2019:22:09%20GMT DIRECTORY 
-201: stat 320739 Sat,%2019%20Oct%202024%2001:29:50%20GMT FILE 
-201: subprocess 12189989 Sat,%2019%20Oct%202024%2001:29:48%20GMT FILE 
-201: sys 0 Wed,%2009%20Jul%202025%2014:19:15%20GMT DIRECTORY 
-201: time 12189983 Sat,%2019%20Oct%202024%2001:29:50%20GMT FILE 
-201: tmp 0 Wed,%2009%20Jul%202025%2019:54:26%20GMT DIRECTORY 
-201: usr 0 Fri,%2018%20Oct%202024%2015:58:36%20GMT DIRECTORY 
-201: var 0 Sat,%2019%20Oct%202024%2000:34:26%20GMT DIRECTORY 
+/***
+|''Name:''|abego.IncludePlugin|
+|''Version:''|1.0.1 (2007-04-30)|
+|''Type:''|plugin|
+|''Source:''|http://tiddlywiki.abego-software.de/#IncludePlugin|
+|''Author:''|Udo Borkowski (ub [at] abego-software [dot] de)|
+|''Documentation:''|[[IncludePlugin Documentation|http://tiddlywiki.abego-software.de/#%5B%5BIncludePlugin%20Documentation%5D%5D]]|
+|''Community:''|([[del.icio.us|http://del.icio.us/post?url=http://tiddlywiki.abego-software.de/index.html%23IncludePlugin]]) ([[Support|http://groups.google.com/group/TiddlyWiki]])|
+|''Copyright:''|&copy; 2007 [[abego Software|http://www.abego-software.de]]|
+|''Licence:''|[[BSD open source license (abego Software)|http://www.abego-software.de/legal/apl-v10.html]]|
+|''~CoreVersion:''|2.1.3|
+|''Browser:''|Firefox 1.5.0.9 or better; Internet Explorer 6.0|
+!Revision history
+//The IncludePlugin is no longer in active development. If you are experiencing problems or looking for some additional features you may want have a look at the  [[SharedTiddlersPlugin|http://yakovl.bplaced.net/TW/STP/STP.html]].//
+* 1.0.1 (2007-04-30)
+** Make ForEachTiddler "Include-aware"
+* 1.0.0 (2007-02-08)
+** initial version
+!Source Code
+***/
+/***
+This plugin's source code is compressed (and hidden). Use this [[link|http://tiddlywiki.abego-software.de/archive/IncludePlugin/1.0.1/IncludePlugin-1.0.1-src.js]] to get the readable source code.
+***/
+///%
+if(!window.abego){window.abego={};}var invokeLater=function(_1,_2,_3){return abego.invokeLater?abego.invokeLater(_1,_2,_3):setTimeout(_1,_2);};abego.loadFile=function(_4,_5,_6){var _7=function(_8,_9,_a,_b,_c){return _8?_5(_a,_b,_9):_5(undefined,_b,_9,"Error loading %0".format([_b]));};if(_4.search(/^((http(s)?)|(file)):/)!=0){if(_4.search(/^((.\:\\)|(\\\\)|(\/))/)==0){_4="file://"+_4;}else{var _d=document.location.toString();var i=_d.lastIndexOf("/");_4=_d.substr(0,i+1)+_4;}_4=_4.replace(/\\/mg,"/");}loadRemoteFile(_4,_7,_6);};abego.loadTiddlyWikiStore=function(_f,_10,_11,_12){var _13=function(_14,_15){if(_12){_12(_14,"abego.loadTiddlyWikiStore",_15,_f,_11);}};var _16=function(_17,_18){var _19=_18.indexOf(startSaveArea);var _1a=_18.indexOf("<!--POST-BODY-END--"+">");var _1b=_18.lastIndexOf(endSaveArea,_1a==-1?_18.length:_1a);if((_19==-1)||(_1b==-1)){return config.messages.invalidFileError.format([_f]);}var _1c="<html><body>"+_18.substring(_19,_1b+endSaveArea.length)+"</body></html>";var _1d=document.createElement("iframe");_1d.style.display="none";document.body.appendChild(_1d);var doc=_1d.document;if(_1d.contentDocument){doc=_1d.contentDocument;}else{if(_1d.contentWindow){doc=_1d.contentWindow.document;}}doc.open();doc.writeln(_1c);doc.close();var _1f=doc.getElementById("storeArea");_17.loadFromDiv(_1f,"store");_1d.parentNode.removeChild(_1d);return null;};var _20=function(_21){_13("Error when loading %0".format([_f]),"Failed");_10(undefined,_f,_11,_21);return _21;};var _22=function(_23){_13("Loaded %0".format([_f]),"Done");_10(_23,_f,_11);return null;};var _24=function(_25,_26,_27,_28){if(_25===undefined){_20(_28);return;}_13("Processing %0".format([_f]),"Processing");var _29=config.messages.invalidFileError;config.messages.invalidFileError="The file '%0' does not appear to be a valid TiddlyWiki file";try{var _2a=new TiddlyWiki();var _2b=_16(_2a,_25);if(_2b){_20(_2b);}else{_22(_2a);}}catch(ex){_20(exceptionText(ex));}finally{config.messages.invalidFileError=_29;}};_13("Start loading %0".format([_f]),"Started");abego.loadFile(_f,_24,_11);};(function(){if(abego.TiddlyWikiIncluder){return;}var _2c="waiting";var _2d="loading";var _2e=1000;var _2f=-200;var _30=-100;var _31=-300;var _32;var _33=[];var _34={};var _35=[];var _36;var _37=[];var _38;var _39=function(){if(_32===undefined){_32=config.options.chkUseInclude===undefined||config.options.chkUseInclude;}return _32;};var _3a=function(url){return "No include specified for %0".format([url]);};var _3c=function(){var _3d=_35;_35=[];if(_3d.length){for(var i=0;i<_37.length;i++){_37[i](_3d);}}};var _3f;var _40=function(){if(_36!==undefined){clearInterval(_36);}_3f=0;var _41=function(){abego.TiddlyWikiIncluder.sendProgress("","","Done");};_36=setInterval(function(){_3f++;if(_3f<=10){return;}clearInterval(_36);_36=undefined;abego.TiddlyWikiIncluder.sendProgress("Refreshing...","","");refreshDisplay();invokeLater(_41,0,_2f);},1);};var _42=function(_43){var _44;for(var i=0;i<_33.length;i++){var _46=abego.TiddlyWikiIncluder.getStore(_33[i]);if(_46&&(_44=_43(_46,_33[i]))){return _44;}}};var _47=function(){if(!window.store){return invokeLater(_47,100);}var _48=store.fetchTiddler;store.fetchTiddler=function(_49){var t=_48.apply(this,arguments);if(t){return t;}if(config.shadowTiddlers[_49]!==undefined){return undefined;}if(_49==config.macros.newTiddler.title){return undefined;}return _42(function(_4b,url){var t=_4b.fetchTiddler(_49);if(t){t.includeURL=url;}return t;});};if(_33.length){_40();}};var _4e=function(){if(!window.store){return invokeLater(_4e,100);}var _4f=store.getTiddlerText("IncludeList");if(_4f){wikify(_4f,document.createElement("div"));}};var _50=function(_51){var _52=function(){var _53=store.forEachTiddler;var _54=function(_55){var _56={};var _57;var _58=function(_59,_5a){if(_56[_59]){return;}_56[_59]=1;if(_57){_5a.includeURL=_57;}_55.apply(this,arguments);};_53.call(store,_58);for(var n in config.shadowTiddlers){_56[n]=1;}_56[config.macros.newTiddler.title]=1;_42(function(_5c,url){_57=url;_5c.forEachTiddler(_58);});};store.forEachTiddler=_54;try{return _51.apply(this,arguments);}finally{store.forEachTiddler=_53;}};return _52;};var _5e=function(_5f,_60){return _5f[_60]=_50(_5f[_60]);};abego.TiddlyWikiIncluder={};abego.TiddlyWikiIncluder.setProgressFunction=function(_61){_38=_61;};abego.TiddlyWikiIncluder.getProgressFunction=function(_62){return _38;};abego.TiddlyWikiIncluder.sendProgress=function(_63,_64,_65){if(_38){_38.apply(this,arguments);}};abego.TiddlyWikiIncluder.onError=function(url,_67){displayMessage("Error when including '%0':\n%1".format([url,_67]));};abego.TiddlyWikiIncluder.hasPendingIncludes=function(){for(var i=0;i<_33.length;i++){var _69=abego.TiddlyWikiIncluder.getState(_33[i]);if(_69==_2c||_69==_2d){return true;}}return false;};abego.TiddlyWikiIncluder.getIncludes=function(){return _33.slice();};abego.TiddlyWikiIncluder.getState=function(url){var s=_34[url];if(!s){return _3a(url);}return typeof s=="string"?s:null;};abego.TiddlyWikiIncluder.getStore=function(url){var s=_34[url];if(!s){return _3a(url);}return s instanceof TiddlyWiki?s:null;};abego.TiddlyWikiIncluder.include=function(url,_6f){if(!_39()||_34[url]){return;}var _70=this;_33.push(url);_34[url]=_2c;var _71=function(_72,_73,_74,_75){if(_72===undefined){_34[url]=_75;_70.onError(url,_75);return;}_34[url]=_72;_35.push(url);invokeLater(_3c);};var _76=function(){_34[url]=_2d;abego.loadTiddlyWikiStore(url,_71,null,_38);};if(_6f){invokeLater(_76,_6f);}else{_76();}};abego.TiddlyWikiIncluder.forReallyEachTiddler=function(_77){var _78=function(){store.forEachTiddler(_77);};_50(_78).call(store);};abego.TiddlyWikiIncluder.getFunctionUsingForReallyEachTiddler=_50;abego.TiddlyWikiIncluder.useForReallyEachTiddler=_5e;abego.TiddlyWikiIncluder.addListener=function(_79){_37.push(_79);};abego.TiddlyWikiIncluder.addListener(_40);if(config.options.chkUseInclude===undefined){config.options.chkUseInclude=true;}config.shadowTiddlers.AdvancedOptions+="\n<<option chkUseInclude>> Include ~TiddlyWikis (IncludeList | IncludeState | [[help|http://tiddlywiki.abego-software.de/#%5B%5BIncludePlugin%20Documentation%5D%5D]])\n^^(Reload this ~TiddlyWiki to make changes become effective)^^";config.shadowTiddlers.IncludeState="<<includeState>>";var _7a=function(e,_7c,_7d){if(!anim||!abego.ShowAnimation){e.style.display=_7c?"block":"none";return;}anim.startAnimating(new abego.ShowAnimation(e,_7c,_7d));};abego.TiddlyWikiIncluder.getDefaultProgressFunction=function(){setStylesheet(".includeProgressState{\n"+"background-color:#FFCC00;\n"+"position:absolute;\n"+"right:0.2em;\n"+"top:0.2em;\n"+"width:7em;\n"+"padding-left:0.2em;\n"+"padding-right:0.2em\n"+"}\n","abegoInclude");var _7e=function(){var e=document.createElement("div");e.className="includeProgressState";e.style.display="none";document.body.appendChild(e);return e;};var _80=_7e();var _81=function(_82){removeChildren(_80);createTiddlyText(_80,_82);_7a(_80,true,0);};var _83=function(){invokeLater(function(){_7a(_80,false,_2e);},100,_30);};var _84=function(_85,_86,_87,url,_89){if(_87=="Done"||_87=="Failed"){_83();return;}if(_86=="abego.loadTiddlyWikiStore"){_3f=0;if(_87=="Processing"){_81("Including...");}}else{_81(_85);}};return _84;};abego.TiddlyWikiIncluder.setProgressFunction(abego.TiddlyWikiIncluder.getDefaultProgressFunction());config.macros.include={};config.macros.include.handler=function(_8a,_8b,_8c,_8d,_8e,_8f){_8c=_8e.parseParams("url",null,true,false,true);var _90=parseInt(getParam(_8c,"delay","0"));var _91=_8c[0]["url"];var _92=getFlag(_8c,"hide",false);if(!_92){createTiddlyText(createTiddlyElement(_8a,"code"),_8d.source.substring(_8d.matchStart,_8d.nextMatch));}for(var i=0;_91&&i<_91.length;i++){abego.TiddlyWikiIncluder.include(_91[i],_90);}};config.macros.includeState={};config.macros.includeState.handler=function(_94,_95,_96,_97,_98,_99){var _9a=function(){var s="";var _9c=abego.TiddlyWikiIncluder.getIncludes();if(!_9c.length){return "{{noIncludes{\nNo includes or 'include' is disabled (see AdvancedOptions)\n}}}\n";}s+="|!Address|!State|\n";for(var i=0;i<_9c.length;i++){var inc=_9c[i];s+="|{{{"+inc+"}}}|";var t=abego.TiddlyWikiIncluder.getState(inc);s+=t?"{{{"+t+"}}}":"included";s+="|\n";}s+="|includeState|k\n";return s;};var _a0=function(){removeChildren(div);wikify(_9a(),div);if(abego.TiddlyWikiIncluder.hasPendingIncludes()){invokeLater(_a0,500,_31);}};var div=createTiddlyElement(_94,"div");invokeLater(_a0,0,_31);};var _a2=Tiddler.prototype.isReadOnly;Tiddler.prototype.isReadOnly=function(){return _a2.apply(this,arguments)||this.isIncluded();};Tiddler.prototype.isIncluded=function(){return this.includeURL!=undefined;};Tiddler.prototype.getIncludeURL=function(){return this.includeURL;};var _a3={getMissingLinks:1,getOrphans:1,getTags:1,reverseLookup:1,updateTiddlers:1};for(var n in _a3){_5e(TiddlyWiki.prototype,n);}var _a5=function(){if(abego.IntelliTagger){_5e(abego.IntelliTagger,"assistTagging");}};var _a6=function(){if(config.macros.forEachTiddler){_5e(config.macros.forEachTiddler,"findTiddlers");}};_47();invokeLater(_4e,100);invokeLater(_a5,100);invokeLater(_a6,100);})();
+//%/
