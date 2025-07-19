@@ -1407,13 +1407,18 @@ DAMAGE.
 
 </pre>
 </div>
-<div title="Installed_Plugins" creator="YourName" modifier="YourName" created="202507091947" modified="202507121540" changecount="2">
+<div title="Installed_Plugins" creator="YourName" modifier="YourName" created="202507091947" modified="202507191432" changecount="3">
 <pre>[
 &lt;&lt;forEachTiddler 
 where 
 'tiddler.tags.contains(&quot;systemConfig&quot;)'
 sortBy
 'tiddler.title'
+script '
+	function getDescriptionFromTable(text, title) {
+		const match = text.match(/\|Description\s*\|\s*(.*?)\|/);
+		return match ? match[1].trim() : title;
+	}'
 write 
 '&quot;{&quot;
 +&quot;\n&quot;
@@ -1423,7 +1428,7 @@ write
 +&quot;\&quot;,&quot;
 +&quot;\n&quot;
 +&quot;\&quot;description\&quot;: \&quot;&quot;
-+tiddler.title
++getDescriptionFromTable(tiddler.text, tiddler.title)
 +&quot;\&quot;&quot;
 +&quot;\n&quot;
 +&quot;},&quot;
